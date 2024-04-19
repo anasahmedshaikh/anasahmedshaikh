@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Anas+Ahmed!" alt="Typing SVG" /></a>
-
+<hr>
 
 - 👋 Hi, I’m @anasahmedshaikh
 - 👀 I’m interested in ...
