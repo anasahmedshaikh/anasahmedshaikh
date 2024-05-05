@@ -3,7 +3,7 @@
 
 👨‍🎓 Currently, I am a First-year student majoring in Information Technology at Dehli collage.<br/>
 
-🌱 I’m learning about **`Software Development`** , **`Machine Learning`** and **`Generative AI`**.<br/>
+🌱 I’m learning about **`Software Development`** , **`Machine Learning`** and **`Generative AI`** along with my studies.<br/>
 
 👨‍💻 I am a **`sales`** intern at **`Codtecs`** company in Karachi Pakistan.<br/>
 # 💻 Technologies and Tools
