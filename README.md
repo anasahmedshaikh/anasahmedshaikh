@@ -1,17 +1,15 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Anas+Ahmed!" alt="Typing SVG" />
-<hr>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Anas+Ahmed!" alt="Typing SVG" /><hr>
+<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-👨‍🎓 Currently, I am a First-year student majoring in Information Technology at Dehli collage.<br/>
 
-🌱 I’m learning about **`Software Development`** , **`Machine Learning`** and **`Generative AI`** along with my studies.<br/>
+<h3> 👨🏻‍💻 About Me </h3>
 
-👨‍💻 I am a **`sales`** intern at **`Codtecs`** company in Karachi Pakistan.<br/>
-
-🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/>
-
- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.<br/>
-
-☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. <br/>
+- 👨‍🎓 &nbsp; Currently, I am a First-year student majoring in Information Technology at Dehli collage.
+- 🌱 &nbsp; I’m learning about **`Software Development`** , **`Machine Learning`** and **`Generative AI`** along with my studies.
+- 👨‍💻 &nbsp; I am a **`sales`** intern at **`Codtecs`** company in Karachi Pakistan.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 # 💻 Technologies and Tools
 
