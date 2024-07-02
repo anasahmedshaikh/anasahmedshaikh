@@ -24,11 +24,11 @@
  <div align="center"  class="icons-social" style="margin-center: 10px;">
 <div>   
     <a href="mailto:anasahmedshaikh2007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Anas Ahmed - Email"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F" alt="Anas Ahmed-Twitter"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Anas Ahmed-Linkedin"></a><br>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Anas Ahmed- Facebook"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Anas Ahmed-Instagram"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Anas Ahmed-fiverr"></a>
+<!--     <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F" alt="Anas Ahmed-Twitter"></a> -->
+    <a href="https://www.linkedin.com/in/anas-ahmed-shaikh/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Anas Ahmed-Linkedin"></a><br>
+    <a href="https://www.facebook.com/profile.php?id=61551632792759" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Anas Ahmed- Facebook"></a>
+    <a href="https://www.instagram.com/anasthesia._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Anas Ahmed-Instagram"></a>
+    <a href="https://www.fiverr.com/anasahmed8haikh?public_mode=true" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Anas Ahmed-fiverr"></a>
     <br>
 </div>
 
