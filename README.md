@@ -33,4 +33,4 @@
 </div>
 
 </p>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake contribution" />
+<img src="images/github-user-contribution.svg" alt="Snake contribution" />
