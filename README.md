@@ -31,6 +31,3 @@
     <a href="https://www.fiverr.com/anasahmed8haikh?public_mode=true" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Anas Ahmed-fiverr"></a>
     <br>
 </div>
-
-</p>
-<img src="images/github-user-contribution.svg" alt="Snake contribution" />
